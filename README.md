@@ -9,7 +9,7 @@
 
 The **KC Streetcar Executive Dashboard** is a real-time operational observability and telemetry demonstration modeled around the Kansas City Streetcar transit network. Built with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, and **Recharts**, it demonstrates how high-velocity operational telemetry (modeled on [GTFS-Realtime](https://gtfs.org/realtime/) vehicle feeds) and historical baseline data can be unified into an actionable, single-pane-of-glass executive view.
 
-While this project uses a simulated telemetry engine in the browser so it can run reliably as a zero-backend static deployment, its architecture and UX reflect real-world **Enterprise Infrastructure & Operations Observability** principles: translating noisy, low-level system state into immediate service-level clarity.
+While this project uses simulated telemetry in the browser, its architecture and UX reflect real-world **Enterprise Infrastructure & Operations Observability** principles: translating noisy, low-level system state into immediate service-level clarity.
 
 ---
 
